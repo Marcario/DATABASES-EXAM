@@ -1,0 +1,42 @@
+qn1
+i)Database; 
+     Refers to a collection of organised, related data(data stored in rows and columns).
+
+ii)Database Management System;
+       Refers to the software that is used to creates and maintain a database.
+iii)SQL;
+       Stands for Standard Querry Language.
+iv)Foreign key;
+       Refers attribute, or set of attributes, within one relation that
+matches candidate key of some or the same relation.
+v)Primary key;
+ Refers to  a candidate key selected to identify tuples uniquely within
+relation.
+
+qn2 
+Merits of using a database
+  Reduces data concurrency and redudancy
+  Improved security 
+  Improved data consistency
+  Provides a qiuck data backup and restoration
+  
+  
+  qn3.
+
+Hospital Management System
+Network Management System
+  qn4.
+  Zero to one relationship(:1)
+                   
+  one to one relationship(1:1)
+ Is where a single occurrence in an entity can be mapped onto at most one occurrence in another entity and a single occurrence of the other entity can be mapped onto a
+maximum of one occurrence to any entity. for example a football team has a captain or a university has one vice chancellor.
+ 
+ 
+  one to many relationship(1:*)
+a single occurrence in an entity can be mapped onto at most one occurrence in another entity and viceversa.for example 
+a mother can have many kids and many kids can belong to one mother.
+
+  many to many relationship(*:*)
+   A relationship where Entities have many-to-many relationship if a single occurrence in one entity can be mapped onto more than one
+occurrences in another and viceversa for example many students can offer many course units.
